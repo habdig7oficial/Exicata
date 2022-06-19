@@ -1,0 +1,22 @@
+/*img{
+    max-width:30rem;
+}
+*/
+
+.w-40{
+  max-width:8rem;  
+}
+
+.my-max{
+    margin-top:6rem;
+}
+
+p{
+    text-align:justify;
+    font-size:1.1rem;
+}
+
+.p-max{
+    padding: 20rem;
+
+}
